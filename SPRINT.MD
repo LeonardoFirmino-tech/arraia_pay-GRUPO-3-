@@ -1,3 +1,4 @@
+
 # 🎪 Arraiá Pay
 
 ## 📌 Sobre o Projeto
@@ -13,7 +14,7 @@ O **Arraiá Pay** é um projeto desenvolvido com o objetivo de organizar as etap
 | 17–20/08 | Modelagem do MER | Criação, desenvolvimento e finalização do Modelo Entidade-Relacionamento (MER). |
 | 24/08 | Desenvolvimento do DER | Criação e desenvolvimento do Diagrama Entidade-Relacionamento (DER). |
 | 08/09 | Finalização do DER | Revisão, ajustes e finalização do diagrama. |
-| 21/09 | Finalização do Banco de Dados | Conclusão e revisão da estrutura do banco de dados. |
+| 21/09 | Especificação de Requisitos e Finalização do Banco de Dados | Documentação dos requisitos do sistema e conclusão da estrutura do banco de dados. |
 
 ## 🗂️ Etapas do Projeto
 
@@ -48,8 +49,10 @@ O **Arraiá Pay** é um projeto desenvolvido com o objetivo de organizar as etap
 - Correção de possíveis inconsistências.
 - Finalização do DER.
 
-### 📅 21/09 — Finalização do Banco de Dados
+### 📅 21/09 — Especificação de Requisitos e Finalização do Banco de Dados
 
+- Elaboração e organização da especificação de requisitos do sistema.
+- Documentação dos requisitos funcionais e não funcionais.
 - Conclusão da estrutura do banco de dados.
 - Revisão das tabelas e dos relacionamentos.
 - Verificação das chaves primárias e estrangeiras.
@@ -62,7 +65,7 @@ O **Arraiá Pay** é um projeto desenvolvido com o objetivo de organizar as etap
         ↓
 03–06/08 — Seleção dos Grupos
         ↓
-10–13/08 — Planejamento e Requisitos
+10–13/08 — Planejamento e Requisitos Funcionais
         ↓
 17–20/08 — Criação e Finalização do MER
         ↓
@@ -70,17 +73,19 @@ O **Arraiá Pay** é um projeto desenvolvido com o objetivo de organizar as etap
         ↓
 08/09 — Finalização do DER
         ↓
+21/09 — Especificação de Requisitos
+        ↓
 21/09 — Finalização do Banco de Dados
 ```
 
 ## 🛠️ Ferramentas e Modelagens
 
 - **Planner:** organização e planejamento das atividades.
-- **Requisitos Funcionais:** definição das funcionalidades do sistema.
-- **MER:** representação conceitual dos dados.
-- **DER:** representação gráfica das entidades e dos relacionamentos.
+- **Especificação de Requisitos:** documentação das necessidades e funcionalidades do sistema.
+- **MER (Modelo Entidade-Relacionamento):** representação conceitual dos dados.
+- **DER (Diagrama Entidade-Relacionamento):** representação gráfica das entidades e dos relacionamentos.
 - **Banco de Dados:** armazenamento e organização dos dados do sistema.
 
 ## 🎯 Objetivo Final
 
-Concluir as etapas de planejamento, modelagem e desenvolvimento do banco de dados do **Arraiá Pay**, garantindo uma estrutura organizada e consistente para o projeto.
+Concluir as etapas de planejamento, especificação de requisitos, modelagem e desenvolvimento do banco de dados do **Arraiá Pay**, garantindo uma estrutura organizada e consistente para o projeto.
